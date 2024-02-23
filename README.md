@@ -1,8 +1,16 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Overview
 
-Currently, two official plugins are available:
+This site serves as a showcase of my understanding of various technologies and concepts, including:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React:** The project is built using React, a JavaScript library for building user interfaces. It demonstrates my proficiency in creating modular and reusable components.
+
+- **React Router:** The site utilizes React Router to implement navigation and showcase my knowledge of routing in single-page applications.
+
+- **Hooks:** Leveraging React hooks, such as useState and useEffect, the project demonstrates my grasp of functional components and state management.
+
+- **Tailwind CSS:** Styling is done using Tailwind CSS, a utility-first CSS framework. Explore the styles in the codebase to see how Tailwind classes are employed for efficient and responsive styling.
+
+Feel free to explore the codebase to see how these technologies are implemented and how they contribute to the functionality and structure of the site.
+

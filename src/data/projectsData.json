@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "First \"About Me\" Page",
+    "shortDescription": "My first site, created from scratch, just so happens to be about myself!",
+    "fullDescription": "This site marks my initial venture into creating a website from scratch, also serving as my first attempt at a personal \"About Me\" page. While it doesn't heavily rely on JavaScript, it does showcase a good deal of CSS. Take a moment to compare it with the site you're currently exploring, built with React and Tailwind. I feel it demonstrates some noteworthy progress in my web development journey.",
+    "urlSite": "https://veelcheck.github.io/Agnieszka-Wilczek/",
+    "urlCode": "https://github.com/veelcheck/Agnieszka-Wilczek",
+    "tags": ["JavaScript", "CSS"]
+  },
+  {
+    "id": 2,
+    "title": "Second \"About Me\" Page",
+    "shortDescription": "Just look around, you are already visiting this new page!",
+    "fullDescription": "Guess what? I managed to assemble my homepage using React and Tailwind. Take a look around and feel free to compare it with my first one. If you're curious to delve into the code, be my guest!",
+    "urlSite": "",
+    "urlCode": "https://github.com/veelcheck/my-homepage-react",
+    "tags": ["JavaScript", "CSS", "React", "Tailwind"]
+  },
+  {
+    "id": 3,
+    "title": "Film Finder",
+    "shortDescription": "REST API Project. Find yourself a movie for the evening.",
+    "fullDescription": "This project showcases the power of a REST API to present you with a randomly selected movie from your chosen genre on TMDB (The Movie Database). Through a simple click on the like or dislike button, you can create a list of movies you want to catch and those you'd rather skip. Initially started as a CodeCademy project with foundational code, but I took it up a notch, making the site responsive and fully functional. The technologies employed include JavaScript and CSS, providing a seamless and engaging user experience",
+    "urlSite": "https://veelcheck.github.io/film_finder_codecademy/",
+    "urlCode": "https://github.com/veelcheck/film_finder_codecademy",
+    "tags": ["JavaScript", "RestAPI", "CSS"]
+  },
+  {
+    "id": 4,
+    "title": "Credit Card Validator",
+    "shortDescription": "Check if a fake number matches the credit card algorithm.",
+    "fullDescription": "This kicked off as a Codecademy project where you could test whether a solo number or a bunch of them are correct (NEVER EVER give anyone your actual credit card number!). I opted for focusing on individual numbers - if they are ok you get the logo of the company that supposedly handed out the card, if not my code provides a valid alternative.",
+    "urlSite": "https://veelcheck.github.io/credit_card_checker/",
+    "urlCode": "https://github.com/veelcheck/credit_card_checker",
+    "tags": ["JavaScript", "CSS"]
+  },
+  {
+    "id": 5,
+    "title": "Jamming - music app",
+    "shortDescription": "Powered by Spotify's API. Search for your favourite artist and add songs to the playlist.",
+    "fullDescription": "Once you're on Spotify, my app makes it easy to find your favourite tunes and put together playlists to spice up your account. Built with React, it's user-friendly, responsive, and smoothly handles REST API tasks.",
+    "tags": ["JavaScript", "React", "CSS", "RestAPI"],
+    "urlCode": "https://github.com/veelcheck/jamming-music-app-react"
+  },
+  {
+    "id": 6,
+    "title": "CSS Battle",
+    "shortDescription": "How I have fun with CSS challenges.",
+    "fullDescription": "Have you ever tried CSS Battle? It's a blast! You can challenge yourself by creating shapes and become a CSS maestro. I personally enjoy this shape-forming game as a delightful and amusing way to kickstart a coding day. Check out a few of these shapes on my site for a sneak peek!    If you want to view it on your mobile device be sure your srceen is at least 400px wide.",
+    "urlSite": "https://veelcheck.github.io/shapes/",
+    "urlCode": "https://github.com/veelcheck/shapes",
+    "tags": ["CSS"]
+  },
+  {
+    "id": 99,
+    "title": "GitHub",
+    "shortDescription": "Feel free to check if I'm up to anything.",
+    "fullDescription": "Feel free to see what I'm up to. While I might not update this site regularly, you can potentially find something new and exciting on my GitHub.",
+    "urlSite": "https://github.com/veelcheck",
+    "tags": ["JavaScript", "React", "CSS", "RestAPI", "Tailwind"]
+  }
+]
+
+

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "HTML",
+    "text": "I work with the building blocks of web pages."
+  },
+  {
+    "name": "CSS",
+    "text": "Styling is my game, whether it's plain CSS or spiced up with Tailwind for that extra flair."
+  },
+  {
+    "name": "JavaScript",
+    "text": "From vanilla basics to making websites do cool things."
+  },
+  {
+    "name": "React",
+    "text": "Diving into the React world, turning static websites into dynamic playgrounds."
+  },
+  {
+    "name": "SQL",
+    "text": "I've learnt the fundamentals to communicate with databases."
+  },
+  {
+    "name": "Git & GitHub",
+    "text": "Got version control covered."
+  },
+  {
+    "name": "API",
+    "text": "No stranger to the world of APIs."
+  }
+]

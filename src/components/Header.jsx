@@ -8,13 +8,11 @@ const customClassName = ({ isActive, customStyles }) =>
 function Header() {
   const [isOpen, setIsOpen] = useState(false);
 
-  function toggleNavbar() {
-    setIsOpen(!isOpen);
-  }
+  const toggleNavbar = () => setIsOpen(!isOpen);
+  
 
-  function closeDropdown() {
-    setIsOpen(false);
-  }
+  const closeDropdown = () => setIsOpen(false);
+
 
   useEffect(() => {
     const handleWindowResize = () => {

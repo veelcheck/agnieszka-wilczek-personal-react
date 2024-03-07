@@ -21,7 +21,7 @@
     "id": 3,
     "title": "Film Finder",
     "shortDescription": "REST API Project. Find yourself a movie for the evening.",
-    "fullDescription": "This project showcases the power of a REST API to present you with a randomly selected movie from your chosen genre on TMDB (The Movie Database). Through a simple click on the like or dislike button, you can create a list of movies you want to catch and those you'd rather skip. Initially started as a CodeCademy project with foundational code, but I took it up a notch, making the site responsive and fully functional. The technologies employed include JavaScript and CSS, providing a seamless and engaging user experience",
+    "fullDescription": "This project showcases the power of a REST API to present you with a randomly selected movie from your chosen genre on TMDB (The Movie Database). Through a simple click on the like or dislike button, you can create a list of movies you want to catch and those you'd rather skip. Initially started as a CodeCademy project with foundational code, but I took it up a notch, making the site responsive and fully functional. The technologies employed include JavaScript and CSS, providing a seamless and engaging user experience.",
     "urlSite": "https://veelcheck.github.io/film_finder_codecademy/",
     "urlCode": "https://github.com/veelcheck/film_finder_codecademy",
     "tags": ["JavaScript", "RestAPI", "CSS"]

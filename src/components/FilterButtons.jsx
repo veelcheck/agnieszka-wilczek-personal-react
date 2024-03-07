@@ -1,10 +1,11 @@
-const buttonBase = "px-2 rounded-md md:px-6 py-2 md:font-bold bg-nice-green";
-const buttonShine ="md:before:absolute md:before:h-[80px] md:before:w-[20px] md:before:bg-nice-nude md:before:top-[-10px] md:before:shadow-[1px_-1px_10px_2px_#fff] md:before:blur-sm md:before:opacity-95 md:before:duration-[0.7s] md:before:rotate-[-30deg] md:before:translate-x-[-70px]";
-const buttonHover = "hover:bg-nice-nude md:hover:bg-nice-green md:hover:text-nice-nude hover:text-nice-green md:hover:before:translate-x-[120px] md:hover:before:translate-y-[-40px]";
+const buttonTailwindClasses = {
+  base: "px-2 rounded-md md:px-6 py-2 md:font-bold bg-nice-green min-w-12",
+  shine: "md:before:absolute md:before:h-[80px] md:before:w-[20px] md:before:bg-nice-nude md:before:top-[-10px] md:before:shadow-[1px_-1px_10px_2px_#fff] md:before:blur-sm md:before:opacity-95 md:before:duration-[0.7s] md:before:rotate-[-30deg] md:before:translate-x-[-70px]",
+  hover: "hover:bg-nice-nude md:hover:bg-nice-green md:hover:text-nice-nude hover:text-nice-green md:hover:before:translate-x-[120px] md:hover:before:translate-y-[-40px]",
+  focus: "focus:bg-nice-nude  md:focus-bg-nice-green  md:focus:text-[#001524] focus:text-nice-green"
+};
 
-const buttonFocus = "focus:bg-nice-nude  md:focus-bg-nice-green  md:focus:text-[#001524] focus:text-nice-green"
-
-const customClassName = `${buttonBase} ${buttonShine} ${buttonHover} ${buttonFocus}`;
+const customClassName = Object.values(buttonTailwindClasses).join(' ');
 
 function FilterButtons({ currentTags, handleFiltering, resetProjects }) {
   return ( 

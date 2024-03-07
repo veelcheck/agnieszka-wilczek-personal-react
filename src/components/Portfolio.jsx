@@ -19,15 +19,14 @@ function Portfolio() {
 
   const [projectData, setProjectData] = useState(projectsData);
   
-  function filterProjects(allProjects, selectedTag) {
+  const filterProjects = (allProjects, selectedTag) => {
     return allProjects.filter(singleProject => singleProject.tags.includes(selectedTag));
   }
 
-  function resetProjects() {
-    setProjectData(projectsData);
-  }
+  const resetProjects = () => setProjectData(projectsData);
 
-  function handleFiltering(selectedTag) {
+
+  const handleFiltering = (selectedTag) => {
     const filteredProjects = filterProjects(projectsData, selectedTag);
     setProjectData(filteredProjects);
   }

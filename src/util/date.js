@@ -1,5 +1,7 @@
-export default function date() {
-  let currentDate = new Date();
-  let currenYear = currentDate.getFullYear();
-  return currenYear;
-}
+ const date = () => {
+   let currentDate = new Date();
+   let currenYear = currentDate.getFullYear();
+   return currenYear;
+ };
+
+ export default date;

@@ -33,7 +33,7 @@ function Portfolio() {
 
   return ( 
     <section className="mx-auto px-4 py-2 flex flex-col items-center md:mt-4">
-      <h1 className={`${move ? 'translate-x-0' : 'translate-x-[-100px]'} transition-transform duration-700 ease-in-out font-amatic text-3xl text-transform: uppercase font-bold md:mb-20 md:text-6xl`}>What do we have here?</h1>
+      <h1 className={`${move ? 'translate-x-0' : 'translate-x-24'} transition-transform duration-700 ease-in-out font-amatic text-3xl text-transform: uppercase font-bold md:mb-20 md:text-6xl`}>What do we have here?</h1>
       <div>
         <FilterButtons 
           currentTags={currentTags} 

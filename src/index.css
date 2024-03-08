@@ -1,10 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
 
-@import "tailwindcss/base";
-@import "tailwindcss/components";
-@import "tailwindcss/utilities";
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
 
-
-*, *::after, *::before {
+*,
+*::after,
+*::before {
   box-sizing: border-box;
+}
+
+@layer components {
+  /* Classes for skills */
+  .skill {
+    @apply font-bold pr-2 before:absolute before:h-2 before:w-2 before:bg-nice-nude before:top-2 before:left-custom before:shadow-skills before:blur-sm before:rounded-full before:opacity-95;
+  }
+  /* Classes for navbar links */
+  .onActive {
+    @apply focus:bg-nice-nude focus:px-2 focus:pb-1 focus:rounded-md focus:text-bg-colour;
+  }
+  .onHover {
+    @apply hover:bg-nice-green px-2 pb-1 rounded-md;
+  }
 }

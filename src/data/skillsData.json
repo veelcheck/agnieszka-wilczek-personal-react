@@ -23,8 +23,13 @@
     "name": "Git & GitHub",
     "text": "Got version control covered."
   },
+
   {
     "name": "API",
     "text": "No stranger to the world of APIs."
+  },
+  {
+    "name": "Redux",
+    "text": "I've had my fair share of wrestling with state management."
   }
 ]

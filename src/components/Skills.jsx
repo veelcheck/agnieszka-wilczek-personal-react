@@ -34,12 +34,6 @@ function Skills() {
               {skill.text}
             </li>
           ))}
-          <li className='relative line-through'>
-            <span className='skill'>
-              Redux:
-            </span>{' '}
-            I've had my fair share of wrestling with state management.
-          </li>
         </ul>
         <p className='py-20'>
           So, there you have it – a mix of skills, a dash of enthusiasm, and a

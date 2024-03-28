@@ -31,7 +31,6 @@
     "title": "Credit Card Validator",
     "shortDescription": "Check if a fake number matches the credit card algorithm.",
     "fullDescription": "This kicked off as a Codecademy project where you could test whether a solo number or a bunch of them are correct (NEVER EVER give anyone your actual credit card number!). I opted for focusing on individual numbers - if they are ok you get the logo of the company that supposedly handed out the card, if not my code provides a valid alternative.",
-    "urlSite": "https://veelcheck.github.io/credit_card_checker/",
     "urlCode": "https://github.com/veelcheck/credit_card_checker",
     "tags": ["JavaScript", "CSS"]
   },
@@ -53,11 +52,20 @@
     "tags": ["CSS"]
   },
   {
+    "id": 7,
+    "title": "Reddit Viewer",
+    "shortDescription": "View Reddit with my redux app.",
+    "fullDescription": "This project is a Reddit viewer application built in Vite, using React and Redux Toolkit. It allows users to browse Reddit content, search for specific terms, filter data based on predefined categories, and view detailed information about selected subreddits including the comment section.",
+    "urlSite": "https://reddit-viewer-redux.netlify.app/",
+    "urlCode": "https://github.com/veelcheck/reddit-viewer-redux/",
+    "tags": ["Redux", "Tailwind", "React"]
+  },
+  {
     "id": 99,
     "title": "GitHub",
     "shortDescription": "Feel free to check if I'm up to anything.",
     "fullDescription": "Feel free to see what I'm up to. While I might not update this site regularly, you can potentially find something new and exciting on my GitHub.",
     "urlSite": "https://github.com/veelcheck",
-    "tags": ["JavaScript", "React", "CSS", "RestAPI", "Tailwind"]
+    "tags": ["JavaScript", "React", "CSS", "RestAPI", "Tailwind", "Redux"]
   }
 ]

@@ -26,10 +26,14 @@
 
   {
     "name": "API",
-    "text": "No stranger to the world of APIs."
+    "text": "No stranger to the world of fetching data from APIs. Harry Potter summoned a brum with ACCIO and I use Axios to summon data! Or a regular fetch."
   },
   {
     "name": "Redux",
     "text": "I've had my fair share of wrestling with state management."
+  },
+  {
+    "name": "TypeScript",
+    "text": "So far only theoretical knowledge but give me time!"
   }
 ]

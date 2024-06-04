@@ -6,6 +6,7 @@ import { debounce } from 'lodash';
 
 const currentTags = [
   'JavaScript',
+  'TypeScript',
   'React',
   'CSS',
   'RestAPI',

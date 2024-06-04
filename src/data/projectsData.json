@@ -61,11 +61,28 @@
     "tags": ["Redux", "Tailwind", "React"]
   },
   {
+    "id": 8,
+    "title": "TypeScript By Trial and Error",
+    "shortDescription": "Small projects to practice TypeScript.",
+    "fullDescription": "This is an ongoing project where I tackle small tasks to improve my TypeScript skills and practice React, exploring features I haven't yet used in larger projects. It's like my virtual notepad, helping me accelerate my learning and showcase my progress and growth to the world.",
+    "urlSite": "https://typescriptfun.netlify.app/",
+    "urlCode": "https://github.com/veelcheck/typescript-micro-projects",
+    "tags": ["TypeScript", "Tailwind", "React"]
+  },
+  {
     "id": 99,
     "title": "GitHub",
     "shortDescription": "Feel free to check if I'm up to anything.",
     "fullDescription": "Feel free to see what I'm up to. While I might not update this site regularly, you can potentially find something new and exciting on my GitHub.",
     "urlSite": "https://github.com/veelcheck",
-    "tags": ["JavaScript", "React", "CSS", "RestAPI", "Tailwind", "Redux"]
+    "tags": [
+      "JavaScript",
+      "React",
+      "CSS",
+      "RestAPI",
+      "Tailwind",
+      "Redux",
+      "TypeScript"
+    ]
   }
 ]

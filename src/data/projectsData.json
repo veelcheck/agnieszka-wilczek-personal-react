@@ -1,5 +1,25 @@
 [
   {
+    "id": 8,
+    "title": "TypeScript By Trial and Error",
+    "shortDescription": "Small projects to practice TypeScript.",
+    "fullDescription": "This is an ongoing project where I tackle small tasks to improve my TypeScript skills and practice React, exploring features I haven't yet used in larger projects. It's like my virtual notepad, helping me accelerate my learning and showcase my progress and growth to the world.",
+    "urlSite": "https://typescriptfun.netlify.app/",
+    "urlCode": "https://github.com/veelcheck/typescript-micro-projects",
+    "tags": ["TypeScript", "Tailwind", "React"]
+  },
+
+  {
+    "id": 7,
+    "title": "Reddit Viewer",
+    "shortDescription": "View Reddit with my redux app.",
+    "fullDescription": "This project is a Reddit viewer application built in Vite, using React and Redux Toolkit. It allows users to browse Reddit content, search for specific terms, filter data based on predefined categories, and view detailed information about selected subreddits including the comment section.",
+    "urlSite": "https://reddit-viewer-redux.netlify.app/",
+    "urlCode": "https://github.com/veelcheck/reddit-viewer-redux/",
+    "tags": ["Redux", "Tailwind", "React"]
+  },
+
+  {
     "id": 1,
     "title": "First \"About Me\" Page",
     "shortDescription": "My first site, created from scratch, just so happens to be about myself!",
@@ -18,23 +38,6 @@
     "tags": ["JavaScript", "CSS", "React", "Tailwind"]
   },
   {
-    "id": 3,
-    "title": "Film Finder",
-    "shortDescription": "REST API Project. Find yourself a movie for the evening.",
-    "fullDescription": "This project showcases the power of a REST API to present you with a randomly selected movie from your chosen genre on TMDB (The Movie Database). Through a simple click on the like or dislike button, you can create a list of movies you want to catch and those you'd rather skip. Initially started as a CodeCademy project with foundational code, but I took it up a notch, making the site responsive and fully functional. The technologies employed include JavaScript and CSS, providing a seamless and engaging user experience.",
-    "urlSite": "https://veelcheck.github.io/film_finder_codecademy/",
-    "urlCode": "https://github.com/veelcheck/film_finder_codecademy",
-    "tags": ["JavaScript", "RestAPI", "CSS"]
-  },
-  {
-    "id": 4,
-    "title": "Credit Card Validator",
-    "shortDescription": "Check if a fake number matches the credit card algorithm.",
-    "fullDescription": "This kicked off as a Codecademy project where you could test whether a solo number or a bunch of them are correct (NEVER EVER give anyone your actual credit card number!). I opted for focusing on individual numbers - if they are ok you get the logo of the company that supposedly handed out the card, if not my code provides a valid alternative.",
-    "urlCode": "https://github.com/veelcheck/credit_card_checker",
-    "tags": ["JavaScript", "CSS"]
-  },
-  {
     "id": 5,
     "title": "Jamming - music app",
     "shortDescription": "Powered by Spotify's API. Search for your favourite artist and add songs to the playlist.",
@@ -43,32 +46,33 @@
     "urlCode": "https://github.com/veelcheck/jamming-music-app-react"
   },
   {
+    "id": 3,
+    "title": "Film Finder",
+    "shortDescription": "EARLY BEGINNINGS. Find yourself a movie for the evening.",
+    "fullDescription": "This project showcases the power of a REST API to present you with a randomly selected movie from your chosen genre on TMDB (The Movie Database). Through a simple click on the like or dislike button, you can create a list of movies you want to catch and those you'd rather skip. Initially started as a CodeCademy project with foundational code, but I took it up a notch, making the site responsive and fully functional. The technologies employed include JavaScript and CSS, providing a seamless and engaging user experience.",
+    "urlSite": "https://veelcheck.github.io/film_finder_codecademy/",
+    "urlCode": "https://github.com/veelcheck/film_finder_codecademy",
+    "tags": ["JavaScript", "RestAPI", "CSS"]
+  },
+  {
+    "id": 4,
+    "title": "Credit Card Validator",
+    "shortDescription": "EARLY BEGINNINGS. Check if a fake number matches the credit card algorithm.",
+    "fullDescription": "This kicked off as a Codecademy project where you could test whether a solo number or a bunch of them are correct (NEVER EVER give anyone your actual credit card number!). I opted for focusing on individual numbers - if they are ok you get the logo of the company that supposedly handed out the card, if not my code provides a valid alternative.",
+    "urlCode": "https://github.com/veelcheck/credit_card_checker",
+    "tags": ["JavaScript", "CSS"]
+  },
+
+  {
     "id": 6,
     "title": "CSS Battle",
-    "shortDescription": "How I have fun with CSS challenges.",
+    "shortDescription": "EARLY BEGINNINGS. How I have fun with CSS challenges.",
     "fullDescription": "Have you ever tried CSS Battle? It's a blast! You can challenge yourself by creating shapes and become a CSS maestro. I personally enjoy this shape-forming game as a delightful and amusing way to kickstart a coding day. Check out a few of these shapes on my site for a sneak peek!    If you want to view it on your mobile device be sure your srceen is at least 400px wide.",
     "urlSite": "https://veelcheck.github.io/shapes/",
     "urlCode": "https://github.com/veelcheck/shapes",
     "tags": ["CSS"]
   },
-  {
-    "id": 7,
-    "title": "Reddit Viewer",
-    "shortDescription": "View Reddit with my redux app.",
-    "fullDescription": "This project is a Reddit viewer application built in Vite, using React and Redux Toolkit. It allows users to browse Reddit content, search for specific terms, filter data based on predefined categories, and view detailed information about selected subreddits including the comment section.",
-    "urlSite": "https://reddit-viewer-redux.netlify.app/",
-    "urlCode": "https://github.com/veelcheck/reddit-viewer-redux/",
-    "tags": ["Redux", "Tailwind", "React"]
-  },
-  {
-    "id": 8,
-    "title": "TypeScript By Trial and Error",
-    "shortDescription": "Small projects to practice TypeScript.",
-    "fullDescription": "This is an ongoing project where I tackle small tasks to improve my TypeScript skills and practice React, exploring features I haven't yet used in larger projects. It's like my virtual notepad, helping me accelerate my learning and showcase my progress and growth to the world.",
-    "urlSite": "https://typescriptfun.netlify.app/",
-    "urlCode": "https://github.com/veelcheck/typescript-micro-projects",
-    "tags": ["TypeScript", "Tailwind", "React"]
-  },
+
   {
     "id": 99,
     "title": "GitHub",

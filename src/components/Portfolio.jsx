@@ -12,6 +12,7 @@ const currentTags = [
   'RestAPI',
   'Tailwind',
   'Redux',
+  'iCodeThis',
 ];
 
 function Portfolio() {

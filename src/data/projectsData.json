@@ -9,6 +9,24 @@
     "tags": ["iCodeThis", "Tailwind", "JavaScript"]
   },
   {
+    "id": 10,
+    "title": "Soba Ramen App",
+    "shortDescription": "The final assignment for the Front-end Developer training, WORK-ON 7. Authors: Inga Pawelec, Żaklina Jasińska, Agnieszka Wilczek",
+    "fullDescription": "Soba Ramen is an application for a fictional restaurant that allows users to: log in to a table using a code or a QR code, choose ramen ingredients and place an order, send a message via contact form and view admin panel (if! you know the password). Backend: Supabase database.",
+    "urlSite": "https://soba-ramen.netlify.app/",
+    "urlCode": "https://github.com/charldll/shushi",
+    "tags": ["Tailwind", "React", "JavaScript"]
+  },
+  {
+    "id": 9,
+    "title": "Lego Shelf",
+    "shortDescription": "CURRENTLY IN DEVELOPMENT. A project built with Next.js, designed to help LEGO enthusiasts manage their collections easily.",
+    "fullDescription": "Lego Shelf is a project built with Next.js, designed to help LEGO enthusiasts (my six-and-a-half-years-old son) manage their LEGO collections easily. Inspired by the goal of creating a fun and simple platform for a young audience, this application allows users to look up LEGO sets and will eventually enable them to build a personalized digital LEGO library. The application is in its early stages, with basic functionality implemented. At this stage, you can search for LEGO sets by their set number using the Rebrickable API.",
+    "urlSite": "https://legoshelf.netlify.app/",
+    "urlCode": "https://github.com/veelcheck/LEGOshelf?tab=readme-ov-file",
+    "tags": ["TypeScript", "Tailwind", "React"]
+  },
+  {
     "id": 8,
     "title": "TypeScript By Trial and Error",
     "shortDescription": "Small projects to practice TypeScript.",
@@ -25,7 +43,7 @@
     "fullDescription": "This project is a Reddit viewer application built in Vite, using React and Redux Toolkit. It allows users to browse Reddit content, search for specific terms, filter data based on predefined categories, and view detailed information about selected subreddits including the comment section.",
     "urlSite": "https://reddit-viewer-redux.netlify.app/",
     "urlCode": "https://github.com/veelcheck/reddit-viewer-redux/",
-    "tags": ["Redux", "Tailwind", "React"]
+    "tags": ["Redux", "Tailwind", "React", "JavaScript"]
   },
 
   {

@@ -12,7 +12,7 @@ function Skills() {
   useEffect(() => {
     triggerAnimation();
     return triggerAnimation.cancel; //Cleanup on unmount.
-  }, []);
+  }, [triggerAnimation]);
 
   return (
     <section className="mx-auto px-10 py-2 flex flex-col justify-center items-center  md:gap-4 md:mt-4">

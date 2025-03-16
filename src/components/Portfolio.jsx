@@ -24,7 +24,7 @@ function Portfolio() {
   useEffect(() => {
     triggerAnimation();
     return triggerAnimation.cancel; //Cleanup on unmount.
-  }, []);
+  }, [triggerAnimation]);
 
   const [projectData, setProjectData] = useState(projectsData);
 
